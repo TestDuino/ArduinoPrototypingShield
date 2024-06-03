@@ -12,7 +12,7 @@ Only certain types of male gold pins are needed:
 You can buy the long version and cut them to the required length.
 
 ## Images
-![Image 1](https://github.com/TestDuino/ArduinoPrototypingShield/blob/main/Arduino_prototypingBoard_img1.png)
+![Image 1](https://github.com/TestDuino/ArduinoPrototypingShield/blob/main/Images/Arduino_prototypingBoard_img1.png)
 ![Image 2](https://github.com/TestDuino/ArduinoPrototypingShield/blob/main/Images/Arduino_prototypingBoard_img2.png)
 ![Image 3](https://github.com/TestDuino/ArduinoPrototypingShield/blob/main/Images/Arduino_prototypingBoard_img3.png)
 ![Image 4](https://github.com/TestDuino/ArduinoPrototypingShield/blob/main/Images/Arduino_prototypingBoard_img4.png)
