@@ -18,7 +18,7 @@ You can buy the long version and cut them to the required length.
 ![Image 4](https://github.com/TestDuino/ArduinoPrototypingShield/blob/main/Images/Arduino_prototypingBoard_img4.png)
 
 ## TODO list in next revision
-- [] Add pin descriptions on silkscreen layer. 
+- [ ] Add pin descriptions on silkscreen layer. 
 
 ### Contributions
 If you find any bugs, have suggestions, or would like to contribute to the development of this project, feel free to contact me or submit a pull request (PR). Your contributions are greatly appreciated, and I am always open to feedback and collaboration. Thank you for helping to improve this project!
